@@ -1,0 +1,108 @@
+{
+  "status": "success",
+  "message": "User data retrieved successfully",
+  "data": {
+    "users": [
+      {
+        "id": 1,
+        "name": "apidog",
+        "email": "apidog@example.com",
+        "roles": ["admin", "user"],
+        "profile": {
+          "bio": "Lover of APIs",
+          "website": "https://apidog.com"
+        }
+      },
+      {
+        "id": 2,
+        "name": "apicat",
+        "email": "apicat@example.com",
+        "roles": ["user"],
+        "profile": {
+          "bio": "API enthusiast",
+          "website": "https://apicat.com"
+        }
+      },
+      {
+        "id": 3,
+        "name": "apiowl",
+        "email": "apiowl@example.com",
+        "roles": ["user", "moderator"],
+        "profile": {
+          "bio": "API expert",
+          "website": "https://apiowl.com"
+        }
+      },
+      {
+        "id": 4,
+        "name": "apifox",
+        "email": "apifox@example.com",
+        "roles": ["user"],
+        "profile": {
+          "bio": "API developer",
+          "website": "https://apifox.com"
+        }
+      },
+      {
+        "id": 5,
+        "name": "apibird",
+        "email": "apibird@example.com",
+        "roles": ["user", "admin"],
+        "profile": {
+          "bio": "API integrator",
+          "website": "https://apibird.com"
+        }
+      },
+      {
+        "id": 6,
+        "name": "apielephant",
+        "email": "apielephant@example.com",
+        "roles": ["user"],
+        "profile": {
+          "bio": "API architect",
+          "website": "https://apielephant.com"
+        }
+      },
+      {
+        "id": 7,
+        "name": "apilion",
+        "email": "apilion@example.com",
+        "roles": ["user", "moderator"],
+        "profile": {
+          "bio": "API tester",
+          "website": "https://apilion.com"
+        }
+      },
+      {
+        "id": 8,
+        "name": "apibee",
+        "email": "apibee@example.com",
+        "roles": ["user"],
+        "profile": {
+          "bio": "API designer",
+          "website": "https://apibee.com"
+        }
+      },
+      {
+        "id": 9,
+        "name": "apipanda",
+        "email": "apipanda@example.com",
+        "roles": ["user", "admin"],
+        "profile": {
+          "bio": "API analyst",
+          "website": "https://apipanda.com"
+        }
+      },
+      {
+        "id": 10,
+        "name": "apirabbit",
+        "email": "apirabbit@example.com",
+        "roles": ["user"],
+        "profile": {
+          "bio": "API manager",
+          "website": "https://apirabbit.com"
+        }
+      }
+    ]
+  }
+}
